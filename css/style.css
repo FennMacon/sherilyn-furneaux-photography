@@ -1,0 +1,48 @@
+*{
+	font-family: Georgia,Times,Times New Roman,serif; 
+}
+body{
+	background-color: #FFDCCC;
+}
+.navbar-default{
+	background-color: #FFCBCC;
+	border-color: #FFCDDC;
+}
+.navbar-default .navbar-brand{
+	color: #222;
+	font-size: 24px;
+}
+.navbar-default .navbar-toggle {
+    border-color: #FFDCCC;
+}
+.navbar-default .navbar-toggle:hover {
+    background-color: #FFDCCC;
+}
+.navbar-default .navbar-toggle:focus {
+    background-color: #FFCBCC;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	border-color: #FFCBCC; 
+}
+.dropdown-menu .divider{
+	background-color: #FFCBCC;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	background-color: #FFCBCC;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+	background-color: #FFCBCC;
+}
+li>.active{
+	color: #000;
+}
+nav a{
+	color: black;
+}
+.about{
+	margin: 0 12.5%;
+}
+footer{
+	bottom: 10px;
+	margin-right: 10%;
+}
